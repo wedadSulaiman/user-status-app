@@ -1,11 +1,11 @@
 # user-status-app
-# User Status App
+
 
 A simple web application built with **PHP** and **MySQL** to manage user data and toggle their status.
 
 ---
 
-## 📖 Project Overview
+##  Project Overview
 
 **User Status App** is a lightweight system that allows administrators to:
 
@@ -15,7 +15,7 @@ A simple web application built with **PHP** and **MySQL** to manage user data an
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **PHP** – Server-side scripting
 - **HTML** – Markup language for structuring content
@@ -25,7 +25,7 @@ A simple web application built with **PHP** and **MySQL** to manage user data an
 
 ---
 
-## 🔧 How It Works
+##  How It Works
 
 ### 1. `index.php`
 - Displays a form to add a new user
